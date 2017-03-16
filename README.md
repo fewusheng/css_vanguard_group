@@ -24,7 +24,7 @@ CSS_vanguard_group
 
 ---
 我们的CSS先锋小组库：
-https://github.com/Mao605569464/CSS_vanguard_group
+https://github.com/Mao605569464/CSS_vanguard_group.git
 
 ### 2017.03.16
 
