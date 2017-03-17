@@ -1,6 +1,6 @@
->                      # CSS先锋小组
->                     CSS_vanguard_group
->               
+>    # CSS先锋小组
+>     CSS_vanguard_group
+>                
 > ####  前端CSS先锋小组，成立于2017年3月15日。
 >
 >     本群专做CSS技术的学习和讨论，
