@@ -31,7 +31,7 @@
 >#  [Task1](http://mp.weixin.qq.com/s/-fulS8uVqkhQ-SUKTu6yPQ)
 ---
 >##  已经提交作业者
-ID | 评价   |ID | 评价
+ID | 评价   |   ID | 评价
 ---|---     |---|---
 雪梅 | 合格   |
 王艳丹 | 良   |
