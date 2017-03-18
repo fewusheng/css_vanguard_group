@@ -44,41 +44,27 @@ Mark|优       |
 >
 >[代码](https://github.com/Mao605569464/task01)
 ---
-# HTML代码
-    ```
-    
-   <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <title>Task_01</title>
-        <link rel="stylesheet" href="css/task_01.css" />
-        <style type='text/css'>
-            #two{
-                width:100px;
-                height:100px;
-                background:green;
-            }
-            #style2{
-                font-size:14px;
-                font-weight:bold;
-                color:#FFF;
-            }
-        </style>
-    </head>
-    <body>
-       <div id="one">
-            <p id="style1">我是一个段落</p>
-        </div>
-       <div id="two">
-            <p id="style2">我是一个段落</p>
-        </div>
-        <div style="width:100px;height:100px;background:red">
-            <p style="font-size:14px;font-weight:bold;color:#FFF">我是一个段落</p>
-        </div>
-    </body>
-    </html>
-    
-    ```
+#   总结一下
+*本次我们的要求不需要任何其它样式，我看到还是有很多朋友没有按照规则分开写样式。不过没关系，希望大家下次按照要求写*
+#### 关于（内联，外部，外链样式）
+>这三种样式是有优先级的，
+>记住他们的优先级：内联式>嵌入式外部式，
+>但是嵌入式>外部式有一个前提：
+>嵌入式css样式的位置一定在外部式的后面。
+>其实总结来说，就是--就近原则（离被设置元素
+>越近优先级别越高）。
+>但注意上面所总结的优先级是有一个前提： >内联式、嵌入式、外部式样式表中css样式是在的>相同权值的情况下。
+##### 内联样式的优缺点
+>==优点==：内联样式表比较灵活，
+>可单独制定某一标签的独特性；
+>
+>==缺点==：效率不够高，代码不易整理，
+>不能同时改变多个标签的属性。
+>
+>而与内联样式相反的就是，
+>调入外部css样式表。
+>将规则写入一个单独的样式表文件中，
+>然后使用href="*.css"
+>将整个样式表文件导入到页面就行了。
 
 
