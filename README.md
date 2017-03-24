@@ -108,7 +108,7 @@ div{
 </html>
 ```
 >###  代码实现如下
->![image](http://mmbiz.qpic.cn/mmbiz_png/XDRSSguXlR5WQibpywhh9ejwIWI9V9YK5MbJcIavSTgKWTFkM1CriaVTuL4BJOliaRzbRpmlYTeZvwibwxCwvrASmQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![image2](http://mmbiz.qpic.cn/mmbiz_png/XDRSSguXlR5WQibpywhh9ejwIWI9V9YK5MbJcIavSTgKWTFkM1CriaVTuL4BJOliaRzbRpmlYTeZvwibwxCwvrASmQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
 >#####  相对定位
 >如果想为元素设置层模型中的相对定位，
 >需要设置position:relative
