@@ -74,7 +74,7 @@ Mark|优       | ______荒城旧梦 | 良 
 ---
 >#  [Task2](http://mp.weixin.qq.com/s/GqBV_gBSOaFEX7PCUYABHQ)
 >#  [Task3](http://mp.weixin.qq.com/s/8danlGk0dExPXxSWkTCGxg)
->#### [附CSS定位视频](https://v.qq.com/x/page/m03862mf3y.html)   
+>#### [附CSS定位视频](https://v.qq.com/x/page/m03862mf3gy.html)   
 ---
 
 
